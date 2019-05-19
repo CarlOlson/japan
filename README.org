@@ -1,0 +1,10 @@
+* map.svg
+
+This contains a useful svg map of japan.  Stolen from Wikipedia
+([[https://commons.wikimedia.org/wiki/File:Fukushima,_Japan_Map.svg][here]]), origin unknown.
+
+I've cleaned up the XML and added id and class tags.  Each path is a
+prefecture, the id is the romanized name, the class is the romanized
+region.  This should make highlighting areas easy with CSS.
+
+[[./map.svg]]
